@@ -1,10 +1,10 @@
 # AI_ML_Internship_3
 
 <h2>Task 3: Linear Regression</h2>
- <p><b>Objective:</b> Implement and understand simple & multiple linear regression. </p>
-<p><b>Tools: </b> Scikit-learn, Pandas, Matplotlib</p>
+ <ul><b>Objective:</b> Implement and understand simple & multiple linear regression. </ul>
+ <ul><b>Tools: </b> Scikit-learn, Pandas, Matplotlib</ul>
 
- <p>Hints/Mini Guide:</p>
+ <h3>Mini Guide:</h3>
  <ol>1.Import and preprocess the dataset.</ol>
  <ol>2.Split data into train-test sets.</ol>
  <ol>3.Fit a Linear Regression model using sklearn.linear_model.</ol>
